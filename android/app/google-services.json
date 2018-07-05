@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "828362099397",
+    "firebase_url": "https://macro-3a898.firebaseio.com",
+    "project_id": "macro-3a898",
+    "storage_bucket": "macro-3a898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828362099397:android:1f7995ab659763a8",
+        "android_client_info": {
+          "package_name": "me.thenightmancodeth.macro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828362099397-nav2sti2mki7qoogd0l1t20j9j1u0d8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.thenightmancodeth.macro",
+            "certificate_hash": "67e472782caf475d88e60f491dada370ba919fc6"
+          }
+        },
+        {
+          "client_id": "828362099397-2ks8e475jfaj3pl1r0eocufkik1sa7l2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "828362099397-2ks8e475jfaj3pl1r0eocufkik1sa7l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGx-oz-3TyexNbzJeZU8Z9FHM44SPlFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828362099397-2ks8e475jfaj3pl1r0eocufkik1sa7l2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "828362099397-bmnv6e3d5t6cikpgnh2kpfk9cnim9h8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.thenightmancodeth.macro"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
